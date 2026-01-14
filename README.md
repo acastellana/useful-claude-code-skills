@@ -8,17 +8,17 @@ Copy the skill folders to your Claude skills directory:
 
 ```bash
 # Clone the repo
-git clone https://github.com/acastellana/useful-skills.git
+git clone https://github.com/acastellana/useful-claude-code-skills.git
 
 # Copy skills to Claude's skill directory
-cp -r useful-skills/notify ~/.claude/skills/
+cp -r useful-claude-code-skills/notify ~/.claude/skills/
 ```
 
 Or clone directly into your skills folder:
 
 ```bash
 cd ~/.claude/skills
-git clone https://github.com/acastellana/useful-skills.git
+git clone https://github.com/acastellana/useful-claude-code-skills.git
 ```
 
 ## Available Skills
